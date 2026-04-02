@@ -37,6 +37,8 @@ greenlet==3.3.2
 h11==0.16.0
 h2==4.3.0
 hpack==4.1.0
+
+89899
 httpcore==1.0.9
 httpx==0.28.1
 httpx-ws==0.8.2
